@@ -18,9 +18,6 @@
 ### ✍️ Something for You
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DexterD9&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=DexterD9&icon=0&color=3)](https://visitcount.itsvg.in)
 
